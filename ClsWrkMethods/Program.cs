@@ -23,6 +23,7 @@ namespace ClsWrkMethods
             Console.WriteLine(returnValue1);
             Console.WriteLine(c);
 
+
             int b = 2;
             int returnValue2 = ByOut(out b);
             Console.WriteLine(returnValue2);
